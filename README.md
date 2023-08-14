@@ -1,11 +1,7 @@
-you've done it wrong.
-
-you had one job, and you've failed.
-
-this is the wrong webpage.
-
-go to https://mconcerning.github.io/hep.a.ninja instead.
-
-
-(tut tut tut)
+you've done it wrong.<br>
+you had one job, and you've failed.<br>
+this is the wrong webpage.<br>
+go to https://mconcerning.github.io/hep.a.ninja instead.<br>
+<br>
+(tut tut tut)<br>
 (kids these days)
